@@ -1,10 +1,6 @@
 # WeAct Studio STM32F411CEU6 Core Board
 
-* [中文版本](./README-zh.md)
-
-## 重要说明
-
-如果板子背面没有`WeAct`和`版本号`，芯片批次是`537`或旧的，插针和板子是装在一个袋子里，`丝印印刷是错误的`(`3V3`印成了`V3V`)，肯定是盗版。可以issues我们或通过电子邮件(WeAct_TC@163.com)告知我们。
+If there is no `WeAct` and `version number` on the back of the board, the chip batch is `537` or old, the stitches and board are packaged in one bag, `the board screen printing is wrong`(`3V3` is going to be labeled `V3V`), it is definitely pirated.Please comment on issues or let us know by email (WeAct_TC@163.com).
 
 ## How to build micropython need ubuntu or Win10 subsystem Linux
 
